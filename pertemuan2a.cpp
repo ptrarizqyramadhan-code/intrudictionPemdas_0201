@@ -18,4 +18,7 @@ cin >> Lebar;
 // Compute nKeliling = 2(p+1)
 Keliling = 2 * (Panjang + Lebar);
 
+//Display "Keliling Persegi Panjang : " + nKeliling
+cout << "Keliling Persegi Panjang : " << Keliling << endl;
 
+}//selesai
