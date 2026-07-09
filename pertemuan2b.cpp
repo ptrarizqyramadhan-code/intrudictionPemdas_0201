@@ -25,7 +25,7 @@ void output() {
     cout << "Keliling Persegi Panjang : " << keliling;
 }
 
-int main() {
+int main() {// mulai
     input();
     process();
     output();
