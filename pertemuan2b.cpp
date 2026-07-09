@@ -17,7 +17,7 @@ void input() {
 
 void process() {
     // Compute nKeliling = 2(p+1)
-    return keliling = 2 * (panjang + lebar);
+    keliling = 2 * (panjang + lebar);
 }
 
 void output() {
@@ -25,3 +25,9 @@ void output() {
     cout << "Keliling Persegi Panjang : " << keliling;
 }
 
+int main() {
+    input();
+    process();
+    output();
+
+}//selesai
