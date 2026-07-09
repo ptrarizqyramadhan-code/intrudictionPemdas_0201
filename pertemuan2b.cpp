@@ -14,3 +14,8 @@ void input() {
     //Accept nLebar
     cin >> lebar;
 }
+
+void process() {
+    // Compute nKeliling = 2(p+1)
+    return keliling = 2 * (panjang + lebar);
+}
