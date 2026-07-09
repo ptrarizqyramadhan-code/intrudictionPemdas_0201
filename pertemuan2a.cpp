@@ -15,4 +15,7 @@ cout << "Masukan Lebar : ";
 //Accept nLebar
 cin >> Lebar;
 
+// Compute nKeliling = 2(p+1)
+Keliling = 2 * (Panjang + Lebar);
+
 
